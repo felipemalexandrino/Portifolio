@@ -1,8 +1,14 @@
+body{
+    background-color:rgba(27, 26, 26, 0.952);
+    color: white;
+}
+
 .rodape{
-    background-color: rgb(158, 187, 240);
+    background-color: aqua;
 }
 
 .navbar-color{
-    background-color: rgb(158, 187, 240);
+    background-color:  aqua;
     color: black;
 }
+
