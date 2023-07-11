@@ -1,14 +1,20 @@
+:root{
+    --cor-primaria:rgb(24, 94, 224);
+    --fonte-principal :'Inter', sans-serif;;
+}
+
 body{
     background-color:rgba(27, 26, 26, 0.952);
     color: white;
+    font-family: var(--fonte-principal);
 }
 
 .rodape{
-    background-color: aqua;
+    background-color: var(--cor-primaria);
 }
 
 .navbar-color{
-    background-color:  aqua;
+    background-color: var(--cor-primaria);
     color: black;
 }
 
